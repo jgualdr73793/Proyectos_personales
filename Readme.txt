@@ -1,6 +1,6 @@
-# instalar python 3.7.8 desde la pagina oficial
+# instalar python 3.8 desde la pagina oficial
 # pip install virtualenv
-# virtualenv -p python3.7 env
+# virtualenv -p python3.8 env
 # cd env
 # Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 # ./Scripts/activate
