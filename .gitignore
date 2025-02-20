@@ -4,3 +4,4 @@ object_recognition_model.h5
 audifonos/
 env/
 output.ply
+object_recognition_model_2.h5
