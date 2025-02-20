@@ -1,3 +1,6 @@
 prueba/
 reconocimiento/
 object_recognition_model.h5
+audifonos/
+env/
+output.ply
