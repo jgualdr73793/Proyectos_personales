@@ -5,3 +5,6 @@ audifonos/
 env/
 output.ply
 object_recognition_model_2.h5
+positiva/
+libreta/
+libeta_text/
