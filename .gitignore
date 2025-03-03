@@ -8,3 +8,7 @@ object_recognition_model_2.h5
 positiva/
 libreta/
 libeta_text/
+unet_model.pth
+mouse/
+mouse_test/
+mascaras/
