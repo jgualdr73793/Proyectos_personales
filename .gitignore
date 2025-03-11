@@ -12,3 +12,5 @@ unet_model.pth
 mouse/
 mouse_test/
 mascaras/
+AE/
+AE_test/
