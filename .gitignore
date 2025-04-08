@@ -6,3 +6,5 @@ env/
 unet_model.pth
 output.ply
 AE_test/
+AE_presion/
+
